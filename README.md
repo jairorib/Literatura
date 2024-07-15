@@ -18,7 +18,7 @@ O Projeto integra-se com a API [Gutendex](https://gutendex.com) para obter infor
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/jairorib/Literatura.git
    
 2. Configure o banco de dados PostgreSQL 
 
